@@ -305,3 +305,4 @@ Mkfile.old
 dkms.conf
 
 Season-1/**/__init__.py
+.vscode/settings.json
