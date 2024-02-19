@@ -1,6 +1,5 @@
 ### VSCODE ###
 .vscode/*
-!.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
@@ -304,3 +303,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+Season-1/**/__init__.py
